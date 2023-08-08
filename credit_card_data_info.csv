@@ -1,0 +1,203 @@
+card_id,card_name,card_brand,card_in_out,card_record,card_summary,card_image,card_section
+1,KB국민 My WE:SH 카드,KB국민카드,"국내전용 15,000원 해외겸용 15,000원",전월실적40만원 이상,"KB Pay10%할인
+음식점10%할인
+서비스팩 3개 중1개선택할인",https://api.card-gorilla.com:8080/storage/card/2441/card_img/28283/2441card.png,신용카드
+2,LOCA 365 카드,롯데카드,"국내전용 20,000원 해외겸용 20,000원",전월실적50만원 이상,"아파트관리비, 공과금10%할인
+교통, 통신, 배달앱10%할인
+스트리밍1,500원할인",https://api.card-gorilla.com:8080/storage/card/2330/card_img/24131/2330card.png,신용카드
+3,삼성카드 taptap O,삼성카드,"국내전용 10,000원 해외겸용 10,000원",전월실적30만원 이상,"스타벅스50%할인
+대중교통10%할인
+CGV, 롯데시네마5,000원할인",https://api.card-gorilla.com:8080/storage/card/51/card_img/27707/51card.png,신용카드
+4,신한카드 Mr.Life,신한카드,"해외겸용 15,000원",전월실적30만원 이상,"공과금10%할인
+마트,편의점10%할인
+식음료10%할인",https://api.card-gorilla.com:8080/storage/card/13/card_img/28201/13card.png,신용카드
+5,DA@카드의정석,우리카드,"국내전용 5,000원 해외겸용 10,000원",전월실적없음,"모든가맹점0.8%할인
+생활업종1.3%할인
+국내공항라운지연 2회무료(전월실적 30만원)",https://api.card-gorilla.com:8080/storage/card/87/card_img/20239/87card.png,신용카드
+6,삼성카드 & MILEAGE PLATINUM (스카이패스),삼성카드,"국내전용 47,000원 해외겸용 49,000원",전월실적없음,"1,000원당1마일기본적립
+커피/주유2마일특별적립
+인천공항라운지무료이용",https://api.card-gorilla.com:8080/storage/card/49/card_img/27705/49card.png,신용카드
+7,신한카드 Deep Dream,신한카드,"해외겸용 8,000원",전월실적없음,"모두드림0.7%적립
+더해드림2.1%적립
+챙겨드림3.5%적립",https://api.card-gorilla.com:8080/storage/card/32/card_img/20114/32card.png,신용카드
+8,카드의정석 EVERY 1,우리카드,"국내전용 12,000원 해외겸용 12,000원",전월실적없음,"국내외 가맹점1%청구할인
+전월실적 따라최대 2만원추가할인",https://api.card-gorilla.com:8080/storage/card/2551/card_img/29587/2551card.png,신용카드
+9,현대카드ZERO Edition2(할인형),현대카드,"국내전용 10,000원 해외겸용 10,000원",전월실적없음,"모든가맹점0.7%할인
+생활필수영역1.5%할인",https://api.card-gorilla.com:8080/storage/card/608/card_img/27229/608card.png,신용카드
+10,THE iD. PLATINUM(포인트),삼성카드,"국내전용 215,000원 해외겸용 220,000원",전월실적50만원 이상,"기프트 서비스15만원 상당제공
+국내 가맹점1%빅포인트 적립
+특별 가맹점1.5%빅포인트 적립",https://api.card-gorilla.com:8080/storage/card/2460/card_img/28298/2460card.png,신용카드
+11,taptap DIGITAL,삼성카드,"국내전용 10,000원 해외겸용 10,000원",전월실적30만원 이상,"온라인간편결제5%할인
+스트리밍50%할인
+편의점10%할인",https://api.card-gorilla.com:8080/storage/card/657/card_img/27715/657card.png,신용카드
+12,다담카드,KB국민카드,"국내전용 15,000원 해외겸용 20,000원",전월실적30만원 이상,"교통/통신10%할인
+주유소/충전소60원/L할인
+생활/교육/쇼핑 등적립팩선택",https://api.card-gorilla.com:8080/storage/card/121/card_img/20353/121card.png,신용카드
+13,zgm.고향으로카드,NH농협카드,"국내전용 12,000원 해외겸용 12,000원",전월실적없음,"NH포인트(지역)최대 1.7%적립
+NH포인트(평일)0.7%적립
+NH포인트(주말)1.0%적립",https://api.card-gorilla.com:8080/storage/card/2513/card_img/28755/2513card.png,신용카드
+14,BC 바로 에어 플러스,BC 바로카드,"국내전용 19,000원 해외겸용 19,000원",전월실적없음,"1천원당1마일리지적립
+1백만원당200마일리지적립",https://api.card-gorilla.com:8080/storage/card/2458/card_img/28788/2458card.png,신용카드
+15,현대카드 M BOOST,현대카드,"국내전용 30,000원 해외겸용30,000원",전월실적50만원 이상,"업종별0.5~3%기본적립
+온라인 간편결제5%적립
+해외가맹점5%적립",https://api.card-gorilla.com:8080/storage/card/700/card_img/22174/700card.png,신용카드
+16,신한카드 Deep Oil,신한카드,"해외겸용 10,000원",전월실적30만원 이상,"4개정유사10%할인
+차량서비스10%할인
+편의점/커피/택시5%할인",https://api.card-gorilla.com:8080/storage/card/39/card_img/20120/39card.png,신용카드
+17,LOCA LIKIT 1.2,롯데카드,"국내전용 10,000원 해외겸용 10,000원",전월실적없음,"모든가맹점1.2%할인
+온라인1.5%할인",https://api.card-gorilla.com:8080/storage/card/2261/card_img/21011/2261card.png,신용카드
+18,마일앤조이카드(대한항공),IBK기업은행,"해외겸용 30,000원",전월실적없음,"1,500원당3~1마일적립
+KTX, SRT 10%할인
+공항라운지연 2회무료",https://api.card-gorilla.com:8080/storage/card/267/card_img/20490/267card.png,신용카드
+19,올바른 FLEX 카드,NH농협카드,"국내전용 10,000원 해외겸용 12,000원",전월실적30만원 이상,"커피50%할인
+스트리밍20%할인
+영화30%할인",https://api.card-gorilla.com:8080/storage/card/666/card_img/21431/666card.png,신용카드
+20,원더카드 FREE,하나카드,"국내전용 12,000원 해외겸용 12,000원",전월실적없음,"국내외가맹점0.7%할인
+간편결제1.2%할인
+쿠팡/마트/베이커리2%할인",https://api.card-gorilla.com:8080/storage/card/2446/card_img/27741/2446card.png,신용카드
+21,BC 바로 클리어 플러스,BC 바로카드,"국내전용 5,000원 해외겸용 5,000원",전월실적15만원 이상,"점심식사/배달앱7%할인
+온라인쇼핑10%할인
+휴대폰요금/스트리밍10%할인",https://api.card-gorilla.com:8080/storage/card/2346/card_img/25293/2346card.png,신용카드
+22,신한카드 Deep Dream(모베러웍스),신한카드,"해외겸용 10,000원",전월실적없음,"모두드림0.7%적립
+더해드림2.1%적립
+챙겨드림3.5%적립",https://api.card-gorilla.com:8080/storage/card/2295/card_img/22902/2295card.png,신용카드
+23,신한카드 D-day,신한카드,"국내전용18,000원 해외겸용 18,000원",전월실적없음,"편의점5%적립
+스타벅스2,000원할인
+라운지무료입장",https://api.card-gorilla.com:8080/storage/card/519/card_img/21204/519card.png,신용카드
+24,알뜰교통카드,신한카드,"해외겸용 12,000원",전월실적30만원 이상,"대중교통/택시10%할인
+마트/편의점10%할인
+전기차 충전 최대50%할인",https://api.card-gorilla.com:8080/storage/card/742/card_img/28951/742card.png,신용카드
+25,BLISS.7 카드(마일리지),IBK기업은행,"해외겸용 200,000원",전월실적없음,"1,500원당1마일적립
+1,500원당 최대2마일특별적립
+바우처20만원상당제공",https://api.card-gorilla.com:8080/storage/card/671/card_img/21436/671card.png,신용카드
+26,카드의정석 WOWRI,우리카드,"국내전용 10,000원 해외겸용 12,000원",전월실적30만원 이상,"모아포인트5%~0.8%적립
+주요간편결제3%추가적립",https://api.card-gorilla.com:8080/storage/card/459/card_img/20980/459card.png,신용카드
+27,아시아나 신한카드 Air 1.5,신한카드,"국내전용 43,000원 해외겸용 45,000원",전월실적50만원 이상,"1,000원당1.5마일기본적립
+1,000원당3마일추가적립
+국내공항라운지무료이용",https://api.card-gorilla.com:8080/storage/card/27/card_img/25865/27card.png,신용카드
+28,현대카드Z family,현대카드,"국내전용 10,000원 해외겸용 10,000원",전월실적40만원 이상,"온라인쇼핑10%할인
+배달앱10%할인
+주유소100원/L할인",https://api.card-gorilla.com:8080/storage/card/730/card_img/22204/730card.png,신용카드
+29,탄탄대로 올쇼핑 티타늄카드,KB국민카드,"국내전용 30,000원 해외겸용 30,000원",전월실적40만원 이상,"대형마트10%할인
+도시가스10%할인
+커피5%할인",https://api.card-gorilla.com:8080/storage/card/485/card_img/21175/485card.png,신용카드
+30,현대카드ZERO Edition2(포인트형),현대카드,"국내전용 10,000원 해외겸용 10,000원",전월실적없음,"국내외 가맹점1%기본적립
+생활필수영역2.5%적립",https://api.card-gorilla.com:8080/storage/card/610/card_img/27232/608card.png,신용카드
+31,IBK 무직타이거 카드(신용),IBK기업은행,"국내전용 10,000원 해외겸용 12,000원",전월실적50만원 이상,"버스,지하철건당 200원할인
+주유소/충전소60원/L할인
+온라인쇼핑20%할인",https://api.card-gorilla.com:8080/storage/card/1487/card_img/20427/1487card.png,신용카드
+32,삼성 iD 달달할인,삼성카드,"국내전용 29,000원 해외겸용 29,000원",전월실적50만원 이상,"아파트관리비10%할인
+스트리밍50%할인
+주유5%할인",https://api.card-gorilla.com:8080/storage/card/1149/card_img/27718/1149card.png,신용카드
+33,BeV V카드(스카이패스형),KB국민카드,"해외겸용 300,000원",전월실적50만원 이상,"대한항공마일리지1,500원/~3마일적립
+프리미엄쿠폰연 1회제공
+해외 공항라운지무료이용서비스",https://api.card-gorilla.com:8080/storage/card/131/card_img/20360/131card.png,신용카드
+34,신한카드 The BEST-F,신한카드,"해외겸용 202,000원",전월실적없음,"캐시백형1%캐시백
+대한항공형1,500원/1마일적립
+기프트옵션1회/연제공",https://api.card-gorilla.com:8080/storage/card/37/card_img/20118/37card.png,신용카드
+35,네이버 현대카드,현대카드,"국내전용 10,000원 해외겸용 10,000원",전월실적30만원 이상,"네이버플러스멤버십무료이용권
+네이버플러스멤버십 회원5%적립
+그외가맹점1%적립",https://api.card-gorilla.com:8080/storage/card/2233/card_img/20932/2233card.png,신용카드
+36,카드의정석 EVERY MILE SKYPASS,우리카드,"해외겸용 39,000원",전월실적없음,"SKYPASS최대 2마일리지적립
+해외이용수수료0.3%면제
+국내 공항라운지동반 1인까지 무료이용",https://api.card-gorilla.com:8080/storage/card/2553/card_img/29710/2553card.png,신용카드
+37,Easy all 티타늄카드,KB국민카드,"국내전용 30,000원 해외겸용 30,000원",전월실적50만원 이상,"20개 영역 중선택형할인
+택시10%할인
+온라인쇼핑5%할인",https://api.card-gorilla.com:8080/storage/card/634/card_img/21400/634card.png,신용카드
+38,신한카드 Deep Dream Platinum+,신한카드,"해외겸용 30,000원",전월실적없음,"모두드림최대 1.1%적립
+더해드림최대 3.3%적립
+챙겨드림최대 5.5%적립",https://api.card-gorilla.com:8080/storage/card/40/card_img/20121/40card.png,신용카드
+39,NH올원 파이카드,NH농협카드,"국내전용10,000원 해외겸용 12,000원",전월실적30만원 이상,"온라인쇼핑7~20%할인
+주유/통신/해외 등선택업종할인
+생활영역5~20%할인",https://api.card-gorilla.com:8080/storage/card/181/card_img/20398/181card.png,신용카드
+40,1Q Daily+,하나카드,"국내전용 10,000원 해외겸용 10,000원",전월실적30만원 이상,"국내가맹점0.3~1%적립
+플러스적립5,000머니적립
+SK주유소3,000원할인",https://api.card-gorilla.com:8080/storage/card/238/card_img/20465/238card.png,신용카드
+41,신한카드 Hi-Point,신한카드,"해외겸용 8,000원",전월실적없음,"전국가맹점0.2~2.0%적립
+특정가맹점1~5%적립
+현대오일뱅크60원/L적립",https://api.card-gorilla.com:8080/storage/card/1/card_img/20083/1card.png,신용카드
+42,American Express® Gold Card,현대카드,"해외겸용 300,000원",전월실적없음,"매년 연간스페셜3만MR적립(30만원 상당)
+공항라운지/발레파킹무료이용
+1,000원당 최대3MR적립",https://api.card-gorilla.com:8080/storage/card/2281/card_img/20685/2281card.png,신용카드
+43,the Red Edition5,현대카드,"국내전용 300,000원 해외겸용 300,000원",전월실적50만원 이상,"바우처 최대20만원제공
+공항라운지무료이용
+M포인트 최대2%적립",https://api.card-gorilla.com:8080/storage/card/2259/card_img/27662/2259card.png,신용카드
+44,삼성 iD ON 카드,삼성카드,"국내전용 20,000원 해외겸용 20,000원",전월실적30만원 이상,"많이쓰는 영역 자동맞춤30%할인
+교통/이동통신/스트리밍10%할인
+온라인간편결제/해외3%·1%할인",https://api.card-gorilla.com:8080/storage/card/2235/card_img/28314/2235card.png,신용카드
+45,하나 CLUB H 아메리칸 익스프레스 리저브 카드,하나카드,"해외겸용 150,000원",전월실적50만원 이상,"국내 1,000원당1마일리지적립
+해외 1,000원당2마일리지적립
+인천공항 라운지무료입장",https://api.card-gorilla.com:8080/storage/card/2406/card_img/26473/2406card.png,신용카드
+46,대한항공카드 030,현대카드,"국내전용 30,000원 해외겸용 30,000원",전월실적없음,"국내외가맹점1마일리지적립
+특정업종2마일리지적립
+웰컴보너스3천마일리지적립",https://api.card-gorilla.com:8080/storage/card/600/card_img/21367/600card.png,신용카드
+47,Daily With(데일리위드)카드,IBK기업은행,"국내전용 10,000원 해외겸용 12,000원",전월실적50만원 이상,"6대생활영역1%기본캐시백
+최다이용영역1%추가캐시백",https://api.card-gorilla.com:8080/storage/card/655/card_img/21418/655card.png,신용카드
+48,알뜰교통카드,우리카드,"국내전용 13,000원 해외겸용 15,000원",전월실적30만원 이상,"대중교통10%할인
+자동결제업종10%할인
+페이코포인트1%적립",https://api.card-gorilla.com:8080/storage/card/583/card_img/29527/583card.png,신용카드
+49,올바른 NEW HAVE카드,NH농협카드,"국내전용 12,000원 해외겸용 12,000원",전월실적없음,"국내외가맹점0.7%적립
+이용금액 1위3배적립
+공항라운지무료이용",https://api.card-gorilla.com:8080/storage/card/635/card_img/28872/635card.png,신용카드
+50,Oil & Life카드(Oil카드),IBK기업은행,"해외겸용 5,000원",전월실적30만원 이상,"GS칼텍스(LPG포함)120원/L할인
+CGV, 롯데시네마2,000원현장할인
+주요 놀이공원50%할인",https://api.card-gorilla.com:8080/storage/card/258/card_img/20484/258card.png,신용카드
+51,삼성 iD EV 카드,삼성카드,"국내전용 15,000원 해외겸용 15,000원",전월실적30만원 이상,"전기차 충전요금50%·70%할인
+주차장·하이패스·대리운전10%할인
+자동차보험3만원할인",https://api.card-gorilla.com:8080/storage/card/2289/card_img/27722/2289card.png,신용카드
+52,트래블로그 신용카드,하나카드,"국내전용 20,000원 해외겸용 20,000원",전월실적없음,"국내외가맹점1%적립
+해외 가맹점3%적립
+항공/면세점/여행3%적립",https://api.card-gorilla.com:8080/storage/card/2529/card_img/29020/2529card.png,신용카드
+53,始發(시발)카드,BC 바로카드,"국내전용 5,000원 해외겸용 8,000원",전월실적없음,"배달앱 최대1,800원할인
+편의점 최대1,800원할인
+실적/한도없이0.7%할인",https://api.card-gorilla.com:8080/storage/card/2418/card_img/28128/2418card.png,신용카드
+54,#tag1카드 Navy,하나카드,"해외겸용 12,000원",전월실적40만원 이상,"아파트관리비5~10%할인
+통신요금5~10%할인
+주유소최대 60원/L할인",https://api.card-gorilla.com:8080/storage/card/248/card_img/20475/248card.png,신용카드
+55,the Green Edition2,현대카드,"국내전용 150,000원 해외겸용 150,000원",전월실적50만원 이상,"바우처10만원제공
+공항라운지무료이용
+M포인트 최대2%적립",https://api.card-gorilla.com:8080/storage/card/2260/card_img/27660/2260card.png,신용카드
+56,신한카드 플리(산리오캐릭터즈),신한카드,"국내전용 15,000원 해외겸용 18,000원",전월실적없음,"국내 이용금액최대 0.9%결제일 할인
+해외 이용금액0.5%결제일 할인
+매주 1회할인 쿠폰제공",https://api.card-gorilla.com:8080/storage/card/2491/card_img/28473/2491card.png,신용카드
+57,청춘대로 톡톡카드,KB국민카드,"국내전용 10,000원 해외겸용 12,000원",전월실적30만원 이상,"스타벅스50%할인
+버거/패스트푸드20%할인
+간편결제Pay10%할인",https://api.card-gorilla.com:8080/storage/card/129/card_img/20358/129card.png,신용카드
+58,카드의정석 PREMIUM MILEAGE(SKYPASS),우리카드,"국내전용 135,000원 해외겸용 135,000원",전월실적50만원 이상,"1,000원당1~2마일적립
+국내외 공항라운지무료이용서비스
+연1회프리미엄기프트제공",https://api.card-gorilla.com:8080/storage/card/92/card_img/20246/92card.png,신용카드
+59,네이버페이 taptap,삼성카드,"국내전용 15,000원 해외겸용 15,000원",전월실적30만원 이상,"네이버페이10%적립
+커피전문점5%적립
+전가맹점0.5%적립",https://api.card-gorilla.com:8080/storage/card/458/card_img/28058/458card.png,신용카드
+60,BeV V카드(포인트형),KB국민카드,"해외겸용 300,000원",전월실적50만원 이상,"포인트리1.2~3.0%적립
+프리미엄쿠폰연 1회제공
+해외 공항라운지무료이용서비스",https://api.card-gorilla.com:8080/storage/card/130/card_img/20359/130card.png,신용카드
+61,삼성 iD NOMAD 카드,삼성카드,"국내전용 47,000원 해외겸용 49,000원",전월실적50만원 이상,"기프트서비스영역별 연 1회제공
+국내외가맹점최대 2%적립
+디지털콘텐츠/멤버십50%할인",https://api.card-gorilla.com:8080/storage/card/2459/card_img/28127/2459card.png,신용카드
+62,FINETECH카드(대한항공),KB국민카드,"국내전용 20,000원 해외겸용 25,000원",전월실적없음,"국내이용1.2마일적립
+해외이용2마일적립
+게임/커피/영화3마일적립",https://api.card-gorilla.com:8080/storage/card/119/card_img/24263/119card.png,신용카드
+63,알뜰교통 my pass 마패 신용카드(Hana-BC),하나카드,"해외겸용 17,000원",전월실적50만원 이상,"대중교통20%할인
+편의점10%할인
+커피10%할인",https://api.card-gorilla.com:8080/storage/card/745/card_img/27829/745card.png,신용카드
+64,BC 바로 리워드 플러스,BC 바로카드,"국내전용 10,000원 해외겸용 10,000원",전월실적30만원 이상,"영화/구독서비스30%적립
+쇼핑5%적립
+주유소/핸드폰요금5%적립",https://api.card-gorilla.com:8080/storage/card/2347/card_img/25291/2347card.png,신용카드
+65,BLISS.5 카드(마일리지),IBK기업은행,"해외겸용 95,000원",전월실적30만원 이상,"1,500원당1마일적립
+바우처 최대10만원제공
+영화2천원할인",https://api.card-gorilla.com:8080/storage/card/772/card_img/22246/772card.png,신용카드
+66,현대카드Z work,현대카드,"국내전용 10,000원 해외겸용 10,000원",전월실적40만원 이상,"커피전문점50%할인
+편의점10%할인
+온라인 간편결제10%할인",https://api.card-gorilla.com:8080/storage/card/731/card_img/22205/731card.png,신용카드
+67,현대카드 M3 BOOST,현대카드,"국내전용 90,000원 해외겸용90,000원",전월실적50만원 이상,"업종별 최대6%적립
+온라인 간편결제5%적립
+해외가맹점5%적립",https://api.card-gorilla.com:8080/storage/card/703/card_img/22177/703card.png,신용카드
+68,LOCA LIKIT Eat,롯데카드,"국내전용 10,000원 해외겸용 10,000원",전월실적40만원 이상,"음식점60%할인
+배달앱60%할인
+커피60%할인",https://api.card-gorilla.com:8080/storage/card/2262/card_img/20704/2262card.png,신용카드
+69,신한카드 래플(Raffle),신한카드,"국내전용 17,000원 해외겸용 20,000원",전월실적50만원 이상,"월 마다 최대7만P추첨적립
+분기 마다 최대30만P추첨적립",https://api.card-gorilla.com:8080/storage/card/2387/card_img/25536/2387card.png,신용카드
+70,알뜰교통플러스 카드,KB국민카드,"국내전용 8,000원 해외겸용 8,000원",전월실적30만원 이상,"대중교통10%할인
+생활서비스5%할인
+KB Pay 이용 시5%추가할인",https://api.card-gorilla.com:8080/storage/card/2555/card_img/29620/2555card.png,신용카드
